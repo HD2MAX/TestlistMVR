@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTVLCOPT:
+#EXTVLCOPT:network-caching=1000
+rtsp://gamr.ddns.net:8554/mortalVR
+#EXTINF:0,mortalVR
+rtsp://gamr.ddns.net:8554/mortalVR
